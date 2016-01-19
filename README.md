@@ -1,5 +1,7 @@
 # Week 1 - Lecture
 
+* [Homework](https://github.com/mschober/eca201-week1/blob/master/README.md#homework)
+* [Fixes](https://github.com/mschober/eca201-week1/blob/master/README.md#fixes)
 
 ### MAC - install specific steps
 1. [install tkinter - ActiveTcl 8.5.18.0](http://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-macosx10.5-i386-x86_64-threaded.dmg)
