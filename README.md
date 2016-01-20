@@ -6,6 +6,7 @@
 ### MAC - install specific steps
 1. [install tkinter - ActiveTcl 8.5.18.0](http://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-macosx10.5-i386-x86_64-threaded.dmg)
 2. [install pip system wide](https://pip.pypa.io/en/stable/installing/)
+   * > python get-pip.py
 
 ### WINDOWS - install specific steps
 1. [Windows X86-64 MSI Installer (2.7)](https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi) - Python 2.7
@@ -15,7 +16,7 @@
     2. Create a new user variable 'PYTHON27_HOME' value: C:\Python27
     3. Create a new user variable 'PATH' value: %PYTHON27_HOME%;%PYTHON27_HOME%\Scripts
     4. win key -> cmd -> python -V
-4. Set the tkinter env variables in Fixes section at the bottom
+4. Set the tkinter env variables in Fixes section at the bottom **(If idle fails to start)**
 
 ### GENERAL
 -------
