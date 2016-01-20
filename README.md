@@ -9,8 +9,9 @@
    * > python get-pip.py
 
 ### WINDOWS - install specific steps
-1. [Windows X86-64 MSI Installer (2.7)](https://www.python.org/ftp/python/2.7/python-2.7.amd64.msi) - Python 2.7
-    * Need to check the install for all users box
+1. [Windows MSI Installer (2.7.10)](https://www.python.org/downloads/release/python-2710/) - Python 2.7
+    * Need to check the install for all users box.
+    * Use 64 bit if you have it.
 3. Set the environment variable
     1. win key -> <search 'thispc'> right click -> properties -> advanced system settings -> Environment Variables
     2. Create a new user variable 'PYTHON27_HOME' value: C:\Python27
