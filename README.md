@@ -1,10 +1,8 @@
 # Week 1 - Lecture
 
-* [Homework](https://github.com/mschober/eca201-week1/blob/master/README.md#homework)
-* [Fixes](https://github.com/mschober/eca201-week1/blob/master/README.md#fixes)
-
 ### MAC - install specific steps
 1. [install tkinter - ActiveTcl 8.5.18.0](http://www.activestate.com/activetcl/downloads/thank-you?dl=http://downloads.activestate.com/ActiveTcl/releases/8.6.4.1/ActiveTcl8.6.4.1.299124-macosx10.5-i386-x86_64-threaded.dmg)
+ * System Preferences -> Security & Privacy -> General tab -> unlock icon -> You can one time allow TKinter or allow software from anywhere
 2. [install pip system wide](https://pip.pypa.io/en/stable/installing/)
    * > python get-pip.py
 
@@ -12,6 +10,7 @@
 1. [Windows MSI Installer (2.7.10)](https://www.python.org/downloads/release/python-2710/) - Python 2.7
     * Need to check the install for all users box.
     * Use 64 bit if you have it.
+    * If you use the 32 bit follow the instructions for getting pip on MAC.
 3. Set the environment variable
     1. win key -> <search 'thispc'> right click -> properties -> advanced system settings -> Environment Variables
     2. Create a new user variable 'PYTHON27_HOME' value: C:\Python27
