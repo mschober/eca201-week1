@@ -25,7 +25,7 @@
     pip install virtualenv
     ```
     
-2. create a class directory
+2. create a new directory for your py201 files
 3. create a virtualenv 'venv' in class directory
     ```
     virtualenv venv
